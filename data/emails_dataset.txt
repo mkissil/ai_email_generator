@@ -1,0 +1,1 @@
+<SUBJECT>Специальное предложение</SUBJECT><KEYWORDS>скидка, распродажа</KEYWORDS><EMAIL><html>...ваш HTML код письма...</html></EMAIL>
